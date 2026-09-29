@@ -20,5 +20,3 @@ vladimilin500278347@gmail.com
 js от georapbox
 ------
 как определить селектор? (подсказки) - https://www.w3schools.com/cssref/trysel.asp?selector=pluss  
-
-Донат автору - PrivatBank EUR - ???
